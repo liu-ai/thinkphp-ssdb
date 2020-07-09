@@ -1,0 +1,24 @@
+{
+    "name": "liuai/thinkphp-ssdb",
+    "description": "ssdb for thinkphp",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "liuai",
+            "email": "25417478@qq.com"
+        }
+    ],
+    "type": "library",
+    "minimum-stability": "dev",
+    "require": {
+        "php": ">=7.0.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "liuai\\ssdb\\": "src"
+        },
+        "classmap": [
+            "SSDB.php"
+        ]
+    }
+}
