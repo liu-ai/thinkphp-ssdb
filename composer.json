@@ -10,7 +10,6 @@
     ],
     "type": "library",
     "require": {
-        "liuai/thinkphp-ssdb": "dev-master",
         "php": ">=7.0.0"
     },
     "autoload": {
