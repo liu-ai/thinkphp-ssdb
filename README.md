@@ -1,2 +1,2 @@
 # thinkphp-ssdb
-thinkphp ssdb
+composer require liuai/thinkphp-ssdb
